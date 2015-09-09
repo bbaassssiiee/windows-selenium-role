@@ -17,5 +17,5 @@
 - name: unpack selenium driver
   script: iedriver.ps1
 
-- name: launch selenium with the ugly batch file
-  script: selenium.bat
+#- name: launch selenium with the ugly batch file
+#  script: selenium.bat
